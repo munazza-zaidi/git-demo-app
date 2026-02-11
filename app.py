@@ -17,3 +17,8 @@ with col2:
     consistent, and growth-driven, she balances personal life, professional responsibilities,
      and continuous learning with clarity and determination.
 ''')
+
+st.header("Skills")
+st.subheader("Python")
+st.subheader("Data Analysis")
+st.subheader("Automation Testing")
